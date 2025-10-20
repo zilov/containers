@@ -1,0 +1,6 @@
+name: sourmahs_plugin_branchwater
+channels:
+  - conda-forge
+dependencies:
+  - sourmash-minimal=4.9.4
+  - sourmash_plugin_branchwater=0.9.14
